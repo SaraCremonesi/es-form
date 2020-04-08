@@ -1,0 +1,105 @@
+.main .header h1 {
+  text-align: center;
+  font-size: 100px;
+  font-style: oblique;
+  font-family: 'Indie Flower', cursive;
+  border-radius: 2px solid black;
+}
+
+body {
+  background-image: url('../img/garnier.jpg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.main hr {
+  margin-left: 300px;
+  margin-right: 300px;
+  border: 3px solid black;
+}
+
+.main .iscrizione form {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  margin-bottom: 25px;
+  margin-top: 50px;
+}
+
+
+.main .iscrizione .data {
+  margin-right: 50px;
+  margin-left: 20px;
+  height: 50px;
+  font-size: 20px;
+  font-family: 'Indie Flower', cursive;
+}
+
+.main .iscrizione .nome {
+  margin-left: 50px;
+  height: 50px;
+  font-size: 20px;
+  font-family: 'Indie Flower', cursive;
+}
+
+.main .iscrizione .mail {
+  margin-right: 50px;
+  height: 50px;
+  font-size: 20px;
+  font-family: 'Indie Flower', cursive;
+}
+
+.main .iscrizione .cognome {
+  margin-left: 50px;
+  margin-right: 50px;
+  height: 50px;
+  font-size: 20px;
+  font-family: 'Indie Flower', cursive;
+}
+
+.iscrizione .testo {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.iscrizione .femmina {
+  margin-right: 20px;
+}
+
+.iscrizione .maschio {
+  margin-right: 20px;
+}
+
+.iscrizione .altro {
+  margin-right: 20px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 30px;
+  font-family: 'Indie Flower', cursive;
+}
+
+.file {
+  margin-left: 20px;
+  font-family: 'Indie Flower', cursive;
+}
+
+.termini {
+  font-family: 'Indie Flower', cursive;
+  margin-bottom: 5px;
+}
+
+.subscribe {
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  margin-left: 530px;
+  margin-right: 500px;
+  line-height: 50px;
+  width: 200px;
+  height: 70px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
